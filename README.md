@@ -12,7 +12,7 @@ This project open access to multiple database, where each of them contain review
 
 SQL table schema.CSV and Amazon ETL starter code.csv
 Data Tools: Amazon_Reviews_ETL.ipynb and Vine_Review_Analysis.ipynb
-Software: Python 3.9 , , VS Code Version: 1.67.2 , Google Collaboratory 
+Software: Python 3.9 , VS Code Version: 1.67.2 , Google Collaboratory 
 
 ### Output:
 
@@ -46,4 +46,4 @@ Vine_table
 *	Amazon Vine Analysis provide a conducive dataset on the 5-star rating.
 *	Also, this analysis suggest that much data is not Vine reviews over specific products, there’s a possibility to reduce the outcome and set a separate dataset to focus solely on Vine products 
 
-[Anazon_Review_ETL](https://colab.research.google.com/drive/1qP1ZMYUCcLgiopu3dcJNdBJJgZgpMYBz#scrollTo=V58rxea0HqSa)
+[Anazon_Review_ETL](https://colab.research.google.com/drive/1qP1ZMYUCcLgiopu3dcJNdBJJgZgpMYBz#scrollTo=V58rxea0HqSa) , [Vine_Review]
