@@ -16,19 +16,23 @@ Software: Python 3.9 , , VS Code Version: 1.67.2 , Google Collaboratory
 
 ### Output:
 
-<customer_df>
+Customer_df
+
 <img width="1044" alt="Customer_df" src="https://user-images.githubusercontent.com/106555873/192150298-8eac8e12-0b12-4ee4-84a2-1cf19e1b4f1f.png">
 
 
-<product_df>
+Product_df
+
 <img width="1034" alt="Product_df" src="https://user-images.githubusercontent.com/106555873/192150308-ba1a9250-32dd-4533-80bc-6e0bbe57a632.png">
 
 
-<review_df/id>
+Review_id>
+
 <img width="1026" alt="Review_id" src="https://user-images.githubusercontent.com/106555873/192150318-daffbc15-4ca6-422b-88c8-afafc930a47d.png">
 
 
-<vine_table>
+Vine_table
+
 <img width="995" alt="vine_df" src="https://user-images.githubusercontent.com/106555873/192150324-378b7e22-bbe4-45f3-9962-89e13050779a.png">
 
 
