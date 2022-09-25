@@ -45,3 +45,5 @@ Vine_table
 
 *	Amazon Vine Analysis provide a conducive dataset on the 5-star rating.
 *	Also, this analysis suggest that much data is not Vine reviews over specific products, there’s a possibility to reduce the outcome and set a separate dataset to focus solely on Vine products 
+
+[Anazon_Review_ETL](https://colab.research.google.com/drive/1qP1ZMYUCcLgiopu3dcJNdBJJgZgpMYBz#scrollTo=V58rxea0HqSa)
